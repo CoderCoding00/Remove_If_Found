@@ -16,4 +16,5 @@ For instance, if you remove 2 from {1, 2, 2, 2, 1}, you should end up with {1, 1
 ```
 
 # Screen Shot of the Test Output 
+<img width="647" alt="REMOVE_IF_FOUND" src="https://user-images.githubusercontent.com/107374333/213944017-ccdbcb1b-174b-4f99-870d-058a3572425e.png">
 
